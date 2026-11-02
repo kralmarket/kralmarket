@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kral Market
 
-<!--
-**kralmarket/kralmarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Kral Market](https://kral.market)** Türkiye'nin dijital ürün pazaryeridir: oyun anahtarı (Steam, Xbox, PlayStation), e-pin, hediye kartı ve yazılım lisansı satın alabileceğiniz güvenilir adres.
 
-Here are some ideas to get you started:
+Kral Market is Turkey's digital marketplace for game keys, e-pins, gift cards and software licenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web: https://kral.market
+- Destek: destek@kral.market
+- Şirket: Seoseo Bilişim Ltd. Şti., Antalya, Türkiye
+
+
+
+
+
+
